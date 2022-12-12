@@ -1,2 +1,2 @@
 # HotelFullStack
- site fictíco de um hotel
+ site fictício de um hotel
